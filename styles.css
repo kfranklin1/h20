@@ -1,5 +1,9 @@
 body {
-    color: black;
+    color: blue;
+    background-color: #6495ED
+}
+ul li {
+    display: inline-block;
 }
 
 h1 {
@@ -10,6 +14,6 @@ head {
     background-image: ;
 }
 
-ul li {
-    display: inline-block;
+h3 {
+    font-size: 100px;
 }
