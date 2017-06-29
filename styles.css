@@ -1,5 +1,6 @@
 body {
     color: blue;
+    background-color: #000
 }
 ul li {
     display: inline-block;
