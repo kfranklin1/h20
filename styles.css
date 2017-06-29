@@ -1,7 +1,15 @@
 body {
-    color: blue;
-    background-color: #6495ED
+    color: black;
 }
+
+h1 {
+    color: black;
+    text-align: center
+}
+head {
+    background-image: ;
+}
+
 ul li {
     display: inline-block;
 }
