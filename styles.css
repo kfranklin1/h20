@@ -1,5 +1,5 @@
 body {
-    color: blue;
+ background:http://www.mazelmoments.com/blog/wp-content/uploads/2014/02/neon-teen-kids-lounge-bat-mitzvah.jpg
     background-color: #6495ED
 }
 ul li {
@@ -13,7 +13,10 @@ h1 {
 }
  
     
-
+.food img {
+    width:175px;
+    height:150px;
+}
 
 h3 {
     font-size: 10px;
