@@ -3,21 +3,17 @@ body {
     background-color: #6495ED
 }
 ul li {
-<<<<<<< HEAD
-    display: inline-block;
-}
-=======
-    display: inline-block; margin-right: 
+  display: inline-block; 
+  
 } 
->>>>>>> 225bfdffee47503a58efe4df88f0db4906627ba9
 
 h1 {
     color: black;
     text-align: center
 }
-head {
-    background-image: 
-}
+ 
+    
+
 
 h3 {
     font-size: 10px;
