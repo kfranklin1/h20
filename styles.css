@@ -1,6 +1,6 @@
-body {
+.home-img {
  background-image: url('images/home page img.jpg'); 
-background-size:contain;
+background-size:cover ;
 
 }
 ul li {
