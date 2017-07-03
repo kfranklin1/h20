@@ -13,15 +13,19 @@ ul li {
 } 
 
 h1 {
-    color: black;
+    color: white;
     text-align: center
 }
- 
+ ul
     
-
+.food img {
+    width:175px;
+    height:150px;
+}
 
 h3 {
     font-size: 10px;
+<<<<<<< HEAD
 }
 
 .about-page {
@@ -30,3 +34,6 @@ h3 {
     width: 100%;
     background-repeat: no-repeat;
 }
+=======
+}
+>>>>>>> 0c9f1f5e1b9d104b46c6eefce7adeb471ddf4fa8
