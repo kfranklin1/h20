@@ -23,3 +23,10 @@ h1 {
 h3 {
     font-size: 10px;
 }
+
+.about-page {
+    background-image: url("images/about.gif");
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+}
