@@ -13,27 +13,21 @@ ul li {
 } 
 
 h1 {
-    color: white;
+    color: whitesmoke;
     text-align: center
 }
- ul
+ 
     
-.food img {
-    width:175px;
-    height:150px;
-}
+
 
 h3 {
     font-size: 10px;
-<<<<<<< HEAD
 }
 
 .about-page {
     background-image: url("images/about.gif");
-    height: 100%;
-    width: 100%;
+    background-size: cover
+    height: 200%;
+    width: 200%;
     background-repeat: no-repeat;
 }
-=======
-}
->>>>>>> 0c9f1f5e1b9d104b46c6eefce7adeb471ddf4fa8
