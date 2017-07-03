@@ -27,7 +27,7 @@ h3 {
 .about-page {
     background-image: url("images/about.gif");
     background-size: cover;
-    height: 200%;
-    width: 200%;
+    height:150px;
+    width:175px;
     background-repeat: no-repeat;
 }
