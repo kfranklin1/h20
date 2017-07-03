@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 body {
     color: blue;
     background-color: #6495ED
+=======
+.home-img {
+ background-image: url('images/home page img.jpg'); 
+background-size:cover ;
+
+>>>>>>> 8316ddbfe8a7c7bd02af1906c1b875321446669f
 }
 ul li {
   display: inline-block; 
