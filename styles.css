@@ -1,11 +1,15 @@
 .home-img {
- background-image: url('images/home page img.jpg'); 
-background-size:cover ;
-
+    background-image: url('images/home page img.jpg'); 
+    background-size:cover ;
 }
+
+body {
+    color: blue;
+    background-color: #6495ED
+}
+
 ul li {
-  display: inline-block; 
-  
+    display: inline-block; 
 } 
 
 h1 {
