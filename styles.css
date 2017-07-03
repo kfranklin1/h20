@@ -1,19 +1,33 @@
+.home-img {
+<<<<<<< HEAD
+ background-image: url('images/home page img.jpg'); 
+ ;
+
+=======
+    background-image: url('images/home page img.jpg'); 
+    background-size:cover ;
+}
+
 body {
     color: blue;
     background-color: #6495ED
+>>>>>>> c46acc0b0853015b1e887e07602cf178dc8f2ba5
 }
+
 ul li {
-  display: inline-block; 
-  
+    display: inline-block; 
 } 
 
 h1 {
-    color: black;
+    color: white;
     text-align: center
 }
- 
+ ul
     
-
+.food img {
+    width:175px;
+    height:150px;
+}
 
 h3 {
     font-size: 10px;
