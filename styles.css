@@ -1,6 +1,7 @@
-body {
-    color: blue;
-    background-color: #6495ED
+.home-img {
+ background-image: url('images/home page img.jpg'); 
+ ;
+
 }
 ul li {
   display: inline-block; 
@@ -8,12 +9,15 @@ ul li {
 } 
 
 h1 {
-    color: black;
+    color: white;
     text-align: center
 }
- 
+ ul
     
-
+.food img {
+    width:175px;
+    height:150px;
+}
 
 h3 {
     font-size: 10px;
