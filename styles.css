@@ -1,5 +1,6 @@
 body {
- background-image: url(homepageimg.jpg) 
+ background-image: url('images/home page img.jpg'); 
+background-size:contain;
 
 }
 ul li {
@@ -8,7 +9,7 @@ ul li {
 } 
 
 h1 {
-    color: black;
+    color: white;
     text-align: center
 }
  
